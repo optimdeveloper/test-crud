@@ -9,9 +9,6 @@
 
 ```bash
 
-# open app directory
-$ cd react-crud-app
-
 # install dependencies
 $ npm i || npm install
 
