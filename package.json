@@ -2,6 +2,9 @@
   "name": "opcrud",
   "version": "0.1.0",
   "private": true,
+  "engines": {
+    "node": "14.0.0"
+  },
   "dependencies": {
     "axios": "^0.21.1",
     "node-sass": "^4.14.1",
